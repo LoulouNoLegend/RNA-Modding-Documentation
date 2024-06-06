@@ -20,9 +20,9 @@ Each one has its own set of installation instructions, **so please read them car
 
 Once you've selected and installed your maploader, launch the game. Depending on the selected maploader
 
-* for CML: go to Tutorial -> Advanced, you will see a custom window where you can enter the level name // Watch [this video ](https://www.youtube.com/watch?v=Pb2MIPm7\_uc)on how to use CML
-* for DML: open console by hitting `F1` and execute `dml map <MapName>`
-* for MP(BP): bottom left corner of the main menu, enter the name of level name and hit `Load`
+* CML: go to Tutorial -> Advanced, you will see a custom window where you can enter the level name // Watch [this video](https://www.youtube.com/watch?v=Pb2MIPm7\_uc)on how to use CML
+* DML: open console by hitting `F1` and execute `dml map <MapName>`
+* MP(BP): bottom left corner of the main menu, enter the name of level name and hit `Load`
 
 ## Q: How do I know what's the name of the level?
 
