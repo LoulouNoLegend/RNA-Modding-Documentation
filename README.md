@@ -6,7 +6,7 @@ description: >-
 
 # 📃 Description
 
-## Who contributed to this doc:
+## Main contributors to this documentation:
 
 * rpatty
 * DMGVol
