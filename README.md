@@ -1,8 +1,13 @@
 ---
 description: >-
-  The documentation ain't complete right now, but we are making our best to make
-  it better.
+  The documentation is not complete right now, but we are making our best to
+  make it better!
 ---
 
-# 🏠Home
+# 📃 Description
 
+## Who contributed to this doc:
+
+* rpatty
+* DMGVol
+* LoulouNoLegend
