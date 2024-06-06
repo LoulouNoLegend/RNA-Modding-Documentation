@@ -6,11 +6,13 @@ As of now, All clothing mods are replacements of the in-game clothing. E.G. A sh
 
 ## Q: How to open custom maps?
 
-To load any custom map, You will need a map loader. You have 3 choices but they all work the same. - - [<mark style="color:yellow;">CustomMapsLoader (CML)</mark>](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/28)
+To load any custom map, You will need a map loader. You have 3 choices but they all work the same.
 
-[<mark style="color:green;">DmgModLoader(DML)</mark>](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/16)
+[<mark style="color:yellow;">CustomMapsLoader (CML)</mark>](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/28)
 
-<mark style="color:purple;">MapLoader-BP (MP)</mark>
+[<mark style="color:green;">DmgModLoader (DML)</mark>](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/16)
+
+[<mark style="color:purple;">MapLoader-BP (MP)</mark>](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/34)
 
 Each one has its own set of installation instructions, **so please read them carefully.**
 
