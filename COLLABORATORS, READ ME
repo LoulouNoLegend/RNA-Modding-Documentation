@@ -4,6 +4,8 @@ Everything works with Gitbook. We need to be carefull when adding pages, etc so 
 
 Also, if you modify something, it will sync with the gitbook page.
 
+Gitbook also reads the .md and README files, so just add a file with no extensions if you want to add a note somewhere
+
 There's a page here for explanations on how Gitbook works with the pages and everyting:
 https://docs.gitbook.com/integrations/git-sync
 There are explanations on how SUMMARY.md works, etc.
