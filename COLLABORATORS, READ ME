@@ -1,5 +1,9 @@
 You guys can add notes or messages for other collaborators here.
 
+Everything works with Gitbook. We need to be carefull when adding pages, etc so it appears correctly and don't break.
+
+Also, if you modify something, it will sync with the gitbook page.
+
 There's a page here for explanations on how Gitbook works with the pages and everyting:
 https://docs.gitbook.com/integrations/git-sync
 There are explanations on how SUMMARY.md works, etc.
