@@ -13,6 +13,8 @@
 
 **5.** Open the file you renamed. The only setting you need to change is the second one. It's extremely recommended to change the _Chunk ID_ to a number between 100 and 100 000, so there's low chances of having the same mod number as someone else's mod. To check the list of maps and their chunk number so you don't have the same one, check the [mods and custom maps spreadsheet](https://docs.google.com/spreadsheets/d/1KTI7YAHB9UPp0qBvWWQ2\_R7W2hjgPLCR53FnauvCJ0A/edit?usp=sharing). You can then save with the disk icon at the top left and close the file.
 
+*please don't use 1000 like the picture*
+
 ![Asset Data parameters](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/f42e4923-a3ca-4c14-9ae8-cf5c6f817a52)
 
 **6.** After that, just go inside the _CustomMaps_ folder. Rename the part after `CM_` to the name of your map.
