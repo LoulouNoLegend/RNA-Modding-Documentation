@@ -1,6 +1,6 @@
 # 💻 Install and play a custom map
 
-**1.** Download a custom map. You can find a lot of them on the [Rooftops & Alleys Discord Server](https://discord.gg/geZshvv8UU).
+**1.** Download a custom map. You can find a lot of them on the [Rooftops & Alleys Discord Server](https://discord.gg/rooftopsandalleys).
 
 
 
