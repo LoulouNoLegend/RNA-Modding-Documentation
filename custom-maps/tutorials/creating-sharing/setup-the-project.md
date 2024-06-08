@@ -1,6 +1,7 @@
 # Setup the project
 
 **1.** Download the template project by clicking [here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB5/UE521-CustomMap-Template-V2.zip)
+*(Since the template was updated recently, some things are indeed different, but it doesn't affect this guide)*
 
 **2.** Extract the "rooftopsandalleys" folder somewhere on your pc.
 
