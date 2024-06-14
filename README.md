@@ -1,13 +1,12 @@
 ---
 description: >-
-  The documentation is not complete right now, but we are making our best to
-  make it better!
+  The documentation might not be complete right now, but we are working on it!
 ---
 
-# 📃 Description
+# 📃 Informations on the doc
 
-## Main contributors to this documentation:
+## The main contributors to this documentation:
 
+* LoulouNoLegend
 * rpatty
 * DMGVol
-* LoulouNoLegend
