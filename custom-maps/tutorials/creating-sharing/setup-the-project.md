@@ -11,7 +11,7 @@
 
 ![View of the file browser, from the Content folder.](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/2f96f4af-95df-4039-b3d2-35fccd7dae3d)
 
-**5.** Open the file you renamed. The only setting you need to change is the second one. It's extremely recommended to **change the _Chunk ID_ to a number between 100 and 100 000 and not common**, so there's low chances of having the same mod number as someone else's mod. You can then save with the disk icon at the top left and close the file.
+**5.** Open the file you renamed. The only setting you need to change is the second one. It's extremely recommended to **change the _Chunk ID_ to a number between 100 and 100 000 that is not common**, so there's low chances of having the same mod number as someone else's mod. You can then save with the disk icon at the top left and close the file.
 
 *please don't use 1000 like the picture*
 
