@@ -1,7 +1,6 @@
 # Setup the project
 
-**1.** Download the template project by clicking [here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB5/UE521-CustomMap-Template-V2.zip)
-*(Since the template was updated recently, some things are indeed different, but it doesn't affect this guide)*
+**1.** Download the template project by clicking [here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB5/UE521-CustomMap-Template-V2.zip) _(Since the template was updated recently, some things are indeed different, but it doesn't affect this guide)_
 
 **2.** Extract the "rooftopsandalleys" folder somewhere on your pc. It's recommended to put this folder in a folder that has the name of your map.
 
@@ -11,9 +10,9 @@
 
 ![View of the file browser, from the Content folder.](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/2f96f4af-95df-4039-b3d2-35fccd7dae3d)
 
-**5.** Open the file you renamed. The only setting you need to change is the second one. It's extremely recommended to **change the _Chunk ID_ to a number between 100 and 100 000 that is not common**, so there's low chances of having the same mod number as someone else's mod. You can then save with the disk icon at the top left and close the file.
+**5.** Open the file you renamed. The only setting you need to change is the second one. It's extremely recommended to **change the **_**Chunk ID**_** to a number between 100 and 100 000 that is not common**, so there's low chances of having the same mod number as someone else's mod. You can then save with the disk icon at the top left and close the file.
 
-*please don't use 1000 like the picture*
+_please don't use 1000 like the picture_
 
 ![Asset Data parameters](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/f42e4923-a3ca-4c14-9ae8-cf5c6f817a52)
 
