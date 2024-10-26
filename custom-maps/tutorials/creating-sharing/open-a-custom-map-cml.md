@@ -1,4 +1,4 @@
-# Open a custom map
+# Open a custom map (CML)
 
 **1.** Launch the game. When in the menu, go to _Tutorials > Advanced_. The CML menu should load. Enter the name of your level into the text box and click Load.
 
