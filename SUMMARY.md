@@ -22,7 +22,7 @@
     * [Create a custom map](custom-maps/tutorials/creating-sharing/create-a-custom-map.md)
     * [Package your map](custom-maps/tutorials/creating-sharing/package-your-map.md)
     * [Install your map](custom-maps/tutorials/creating-sharing/install-your-map.md)
-    * [Open a custom map (CML)](custom-maps/tutorials/creating-sharing/open-a-custom-map.md)
+    * [Open a custom map (CML)](custom-maps/tutorials/creating-sharing/open-a-custom-map-cml.md)
   * [Basic Map Creation](custom-maps/tutorials/basic-map-creation.md)
   * [Advanced Map Creation](custom-maps/tutorials/advanced-map-creation.md)
 * [📁 Ressources](custom-maps/ressources.md)
